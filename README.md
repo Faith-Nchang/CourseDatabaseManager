@@ -24,3 +24,10 @@ The data manager allows the user to read the courses from a file or to enter the
 
 Exception Classes
 IOException – created and thrown when user selects an input file that cannot be read or attempting to retrieve a CDE that does not exist in the DB.
+
+# concepts
+Hash Table, 
+Link List,
+hash code, buckets/chaining,
+exception handling, 
+read/write to files
